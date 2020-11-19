@@ -58,7 +58,7 @@ async def msg(ctx, *, arg):
 # Evento para mostrar o ping do bot
 @client.command()
 async def ping(ctx):
-    await ctx.send(f'Minha pinga é de {round(client.latency * 1000)}ms')
+    await ctx.send(f'O ping é de {round(client.latency * 1000)}ms')
 
 
 
