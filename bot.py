@@ -14,7 +14,7 @@ players = {}
 youtube_dl.utils.bug_reports_message = lambda: ''
 
 # Token de acesso do bot, cada bot tem o seu Token próprio. Deve ser privado o Token.
-TOKEN = 'Nzc2NTAxODE0NzQ4NTEyMjc2.X61zqw.Nk6Lb-8bGCBYRHA-FdntZMCvT18'
+TOKEN = 'Here goes the token access'
 
 
 # Evento que informa que o bot está online
